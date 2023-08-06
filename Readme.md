@@ -1,10 +1,3 @@
-**DOSP PROJECT 4 PART 2** 
-
-**Group Members:** 
-
-KRISHNA KIREETI RAYAPROLU - 6303 1300 
-
-Srisharanya Injarapu - 7595 6698 
 
 **Instructions for running the code:** 
 
